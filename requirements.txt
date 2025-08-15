@@ -5,3 +5,6 @@ langchain-core
 ipykernel
 python-dotenv
 langchain-groq
+arxiv
+wikipedia
+langchain-tavily
