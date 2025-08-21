@@ -10,3 +10,5 @@ wikipedia
 langchain-tavily
 langchain_openai
 faiss-cpu
+langchain_huggingface
+sentence_transformers
